@@ -1,6 +1,6 @@
 # Agency - Projeto de curso
 
-![Imagem sobre o projeto](https://github.com/Ruan-Moraes/Sass_Agency/assets/129057792/9b9d7e28-6b17-4f38-a63c-82a67aa72f77)
+![Imagem do projeto](https://github.com/Ruan-Moraes/Sass_Agency/assets/129057792/9b9d7e28-6b17-4f38-a63c-82a67aa72f77)
 
 ## Sobre o Projeto
 
@@ -18,7 +18,5 @@ Você tem duas maneiras de testar o projeto:
 
 ### 2. Através do GitHub Pages
 
-Caso prefira, é possível acessar uma versão online do projeto hospedada no GitHub Pages. Basta clicar no link abaixo:
-
-[Visualizar no GitHub Pages](https://ruan-moraes.github.io/Sass_Agency/)
+**Acessar o Projeto**: Acesse o projeto clicando [aqui](https://ruan-moraes.github.io/Agency/).
 
